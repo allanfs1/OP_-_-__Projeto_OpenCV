@@ -1,5 +1,5 @@
 
-                                                      #OPENCV
+                                                      # OPENCV
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-                        #Objetivo
+                      # Objetivo
 
                          Meu  projeto tem como objetivo processar imagens aplicando filtros com
                        a finalidade de podermos por exemplo: identificar objetos em imagens
@@ -23,7 +23,7 @@
 
 
 
-                      #Metodologia
+                      # Metodologia
 
                          Vou  realizando o projeto utilizando a biblioteca OPENCV(Open
                        Source Computer Vision Library), numpy, Matplotlib, SQLite e Qt (pyuic5).
