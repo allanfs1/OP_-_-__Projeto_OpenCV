@@ -3,7 +3,7 @@
 
 
 
-                            Processamento de imagens é a forma de processamento de um dado
+                           # Processamento de imagens é a forma de processamento de um dado
                          que em sua entrada e saída são imagens como fotos ou quadros de vídeos.
                          O processo é feito para que a maquina aprenda a reconhecer padrões, por
                          exemplo imperfeições na imagem (ruídos).
