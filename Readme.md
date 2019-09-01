@@ -4,7 +4,7 @@
 
 ![Filtros](https://github.com/allanfs1/OP_-_-__Projeto_OpenCV/blob/master/Opencv/Print/corte.png)]
 
-## Processamento de imagens é a forma de processamento de um dado
+   Processamento de imagens é a forma de processamento de um dado
 que em sua entrada e saída são imagens como fotos ou quadros de vídeos.
 O processo é feito para que a maquina aprenda a reconhecer padrões, por
 exemplo imperfeições na imagem (ruídos).
@@ -23,6 +23,6 @@ melhoria no foco e em suas características.
 
 ## Metodologia
 
-Vou, realizando o projeto utilizando a biblioteca *OPENCV*(Open
+   Vou, realizando o projeto utilizando a biblioteca *OPENCV*(Open
 Source Computer Vision Library), **numpy**, **Matplotlib**, **SQLite** e **Qt** (**pyuic5**).
 
