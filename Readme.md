@@ -20,7 +20,7 @@ melhoria no foco e em suas características.
 
 - Meu  projeto tem como objetivo processar imagens aplicando filtros com
 A finalidade de podermos por exemplo: 
-- Identificar objetos em imagens Escuras, melhoria de iluminação, definição e suavização da imagem.
+   - Identificar objetos em imagens Escuras, melhoria de iluminação, definição e suavização da imagem.
 
 
 
