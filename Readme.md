@@ -4,6 +4,8 @@
 
 ![Filtros](https://github.com/allanfs1/OP_-_-__Projeto_OpenCV/blob/master/Opencv/Print/corte.png)]
 
+## Introdução
+
    Processamento de imagens é a forma de processamento de um dado
 que em sua entrada e saída são imagens como fotos ou quadros de vídeos.
 O processo é feito para que a maquina aprenda a reconhecer padrões, por
