@@ -1,8 +1,10 @@
 # OpenCV
+
 **OPENCV**
 
+![Filtros](https://github.com/allanfs1/OP_-_-__Projeto_OpenCV/blob/master/Opencv/Print/corte.png)]
 
-# Processamento de imagens é a forma de processamento de um dado
+## Processamento de imagens é a forma de processamento de um dado
 que em sua entrada e saída são imagens como fotos ou quadros de vídeos.
 O processo é feito para que a maquina aprenda a reconhecer padrões, por
 exemplo imperfeições na imagem (ruídos).
@@ -13,15 +15,14 @@ melhoria no foco e em suas características.
   
 
 ## Objetivo
-Meu  projeto tem como objetivo processar imagens aplicando filtros com
-a finalidade de podermos por exemplo: identificar objetos em imagens
-escuras, melhoria de iluminação, definição e suavização da imagem.
+- Meu  projeto tem como objetivo processar imagens aplicando filtros com
+- A finalidade de podermos por exemplo: identificar objetos em imagens
+- Escuras, melhoria de iluminação, definição e suavização da imagem.
 
 
 
 ## Metodologia
 
-Vou  realizando o projeto utilizando a biblioteca OPENCV(Open
-Source Computer Vision Library), numpy, Matplotlib, SQLite e Qt (pyuic5).
-
+Vou, realizando o projeto utilizando a biblioteca *OPENCV*(Open
+Source Computer Vision Library), **numpy**, **Matplotlib**, **SQLite** e **Qt** (**pyuic5**).
 
